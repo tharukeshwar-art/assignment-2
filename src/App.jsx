@@ -9,6 +9,7 @@ import Chat from "./components/Chat";
 import Notifications from "./components/Notifications";
 import Profile from "./components/Profile";
 import Auth from "./components/Auth";
+import "./App.css"
 
 function App() {
 
